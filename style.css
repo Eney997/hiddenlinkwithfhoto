@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+.colorred {
+    color: red;
+}
+path:hover {
+    fill: green;
+    transition: all .5s;
+}
